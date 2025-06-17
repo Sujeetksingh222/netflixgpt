@@ -1,8 +1,12 @@
 #Netflix GPT
 
+
 -create react app : 
      command:- npx create-react-app project_name
 - Configured Tailwindcss with create-react-app
+-Header
+-Login Form
+-Sign Up Form 
 
 #Features
 -Login/SignUp(Login and signup page) 
